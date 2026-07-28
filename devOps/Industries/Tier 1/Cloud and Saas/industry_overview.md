@@ -42,3 +42,4 @@ mindmap
                 Revenu may stop
                 Customer traffic is affected
                 Service-level agreements may be affected
+```
