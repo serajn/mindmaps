@@ -19,29 +19,21 @@ mindmap
             Systems Integration Engineer
             Digital Twin Engineer
             Automation Solutions Architect
-        
-        Career Tracks
-            Industrial Software
-                MES
-                SCADA
-                Enterprise Software
-                Backend Systems
-                APIs
-            Automation & Controls
-                PLCs
-                HMIs
-                Robotics
-                Motion Control
-                Machine Commissioning
-            Industrial Infrastructure
-                Industrial DevOps
-                Networking
-                Cloud
-                Edge Computing
-                IIoT
-            Embedded & Robotics
-                Firmware
-                Embedded Linux
-                Robotics Software
-                Machine Vision
+            
+        Knowledge Base
+            Layer 1 - Core Knowledge
+                Manufacturing Fundamentals
+                Industrial Control Basics
+                Industrial Networking
+                Industrial Cybersecurity
+                Version Control
+                Debugging Physcial Systems
+            Layer 2 - Career Track Knowledge
+                Track A - Industrial Software
+                Track B - Automation & Controls
+                Track C - Industrial DevOps & Infrastructure
+                Track D - Industrial IoT
+                Track E - Robotics
+                Track F - Embedded Systems
+
 ```
